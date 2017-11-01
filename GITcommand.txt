@@ -1,4 +1,5 @@
 pwd		显示当前目录
+git config --global user.email "abc728960293@163.com" 设定邮箱
 git init		将当前目录改为git仓库
 git add 文件名	添加文件到git仓库
 git commit		提交
